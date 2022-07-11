@@ -28,7 +28,7 @@
 >기술 스택:  
 >Java 8 / Oracle DB / HTML / CSS / JS / JSP / open API / Tomcat Server   
 >  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
+>[프로젝트 상세 설명](https://github.com/doby98/HappyEver) 참고
 
 ---
 
