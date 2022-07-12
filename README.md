@@ -26,7 +26,7 @@
 >개발 기간: 2022. 5. 17.~2022 7. 1.  
 >  
 >기술 스택:  
->Java 8 / Oracle DB / HTML / CSS / JS / JSP / open API / Tomcat Server   
+>Java 8 / Oracle DB / HTML / CSS / JS / JSP / open API / Tomcat Server / Boottrap   
 >  
 >[프로젝트 상세 설명](https://github.com/doby98/HappyEver) 참고
 
