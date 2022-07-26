@@ -85,6 +85,6 @@ CS 팀프로젝트 'OSI7 계층' 제작
 >
 >이 때 목적지의 IP주소와 라우터라는 3계층의 장비를 사용해 원활한 통신이 이루어지게 한다.
 >
->[프로젝트 상세 설명](https://github.com/doby98/Honker) 참고
+>[프로젝트 상세 설명](https://github.com/doby98/OSI-7Layer) 참고
 
 ---
