@@ -1,5 +1,6 @@
 # 정유섭 포트폴리오
->웹개발을 통해 사회에 긍정적인 에너지를 줄 수 있는 엔지니어가 되고 싶은 정유섭입니다.
+>웹개발을 통해 사회에 긍정적인 에너지를 줄 수 있는 엔지니어가 되고 싶은 정유섭입니다.</br>
+:phone: 010-4678-8753
 </br>
 
 ## :pushpin: Intro
@@ -17,6 +18,35 @@
 - 이메일: ysj_98@naver.com
 - 블로그: https://velog.io/@doby98
 - 깃헙: https://github.com/doby98
+
+</br>
+
+## :pushpin: TimeLine
+- (2022. 3.) </br>
+국비 임베디드 풀스택 개발자 양성과정 A 수강 시작
+- (2022. 3.) </br>
+국비 수업 스터디 개설(수업 복습 및 백준 문제 풀이)
+- (2022. 4.) </br>
+개인 프로젝트 '혼커' 제작
+- (2022. 4.) </br>
+CS 팀프로젝트 'OSI7 계층' 제작
+- (2022. 5.~2022. 6.) </br>
+팀프로젝트 'HappyEver' 제작
+
+</br>
+
+## :pushpin: Skills
+- Java 8
+- Oracle DB
+- HTML
+- CSS
+- JS
+- JSP
+- open API
+- Tomcat Server
+- Bootstrap
+- Springboot
+- Spring
 
 </br>
 
