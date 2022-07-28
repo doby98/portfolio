@@ -48,6 +48,7 @@ CS 팀프로젝트 'OSI7 계층' 제작
 - Bootstrap
 - Springboot
 - Spring
+- Python
 
 </br>
 
