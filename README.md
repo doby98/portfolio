@@ -46,6 +46,7 @@ CS 팀프로젝트 'OSI7 계층' 제작
 - open API
 - Tomcat Server
 - Bootstrap
+- Mybatis
 - Springboot
 - Spring
 - Python
