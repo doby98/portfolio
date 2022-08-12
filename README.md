@@ -23,6 +23,13 @@ CS 팀프로젝트 'OSI7 계층' 제작
 - (2022. 5.~2022. 6.) </br>
 팀프로젝트 'HappyEver' 제작
 
+<hr>
+
+- :mortar_board: 자격증
+> Cospro 파이썬 2급
+> 
+> 운전면허1종보통
+
 </br>
 
 ## :pushpin: Contact
@@ -58,6 +65,8 @@ CS 팀프로젝트 'OSI7 계층' 제작
 :open_mouth: 보고 이해할 수 있어요
 - Bootstrap
 - Python
+
+<hr>
 
 </br>
 
