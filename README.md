@@ -71,18 +71,32 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [HappyEver]
+
+### 1. [Laundrygo]
+>'우리집 모바일 세탁소, 런드리고'의 웹사이트 버전 (팀 프로젝트)  
+>개발 기간 
+>FrontEnd : 2022. 8. 7.~2022 8. 21. 
+>BackEnd : 2022. 9. 18.~2022. 10. 4.  
+>  
+>기술 스택:  
+>Java 11 / Spring MVC / MYSQL / HTML5 / CSS3 / JS / JQuery / Apache Tomcat 9.0 / JSTL / MyBatis / Ajax   
+>  
+>[프로젝트 상세 설명](https://github.com/doby98/Laundrygo_project) 참고
+
+---
+
+### 2. [HappyEver]
 >여행 플래너 제작 서비스 (팀 프로젝트)  
 >개발 기간: 2022. 5. 17.~2022 7. 1.  
 >  
 >기술 스택:  
->Java 8 / Oracle DB / HTML / CSS / JS / JSP / open API / Tomcat Server / Bootstrap   
+>Java 8 / Oracle DB / HTML / CSS / JS / JSP / open API / Tomcat Server / Bootstrap  
 >  
 >[프로젝트 상세 설명](https://github.com/doby98/HappyEver) 참고
 
 ---
 
-### 2. [혼커]
+### 3. [혼커]
 >혼자 즐길 수 있는 포커 미니게임 (개인 프로젝트)  
 >개발 기간: 2022. 3. 21.~2022. 4. 6.  
 >  
@@ -93,7 +107,7 @@
 
 ---
 
-### 3. [CS: OSI 7계층]
+### 4. [CS: OSI 7계층]
 >OSI 7계층에 대한 PPT 제작 및 발표 (팀 프로젝트)<br>
 >진행 기간: 2022. 4. 14.~2022. 5. 12.
 >
