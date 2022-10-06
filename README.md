@@ -21,7 +21,9 @@
 >(2022. 4.~2022. 5.) </br>
 >CS 팀프로젝트 'OSI7 계층' 제작</br></br>
 >(2022. 5.~2022. 6.) </br>
->팀프로젝트 'HappyEver' 제작
+>팀프로젝트 'HappyEver' 제작</br></br>
+>(2022. 8.~2022. 10.) </br>
+>팀프로젝트 'LaundryGo' 제작
 
 <hr>
 
@@ -47,18 +49,19 @@
 - Oracle DB
 - JSP
 - Mybatis
-- Springboot
+- Spring
+- MySQL
+- JavaScript
 
 <hr>
 
 :blush: 어느정도 사용할 수 있어요
-- Spring
 - HTML
 - CSS
-- JS
 - open API
 - Tomcat Server
 - Git
+- Springboot
 
 <hr>
 
